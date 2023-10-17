@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RedisExampleApp.API.props" />
+</Project>
